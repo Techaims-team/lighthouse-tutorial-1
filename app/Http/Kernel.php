@@ -1,6 +1,7 @@
 <?php
 
 namespace App\Http;
+use Laravel\Tinker\Console\TinkerCommand;
 
 use Illuminate\Foundation\Http\Kernel as HttpKernel;
 
